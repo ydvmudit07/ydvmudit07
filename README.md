@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/LinkedIn-blue
-
 <!--
 **ydvmudit07/ydvmudit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
